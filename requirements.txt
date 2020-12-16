@@ -1,0 +1,21 @@
+asgiref==3.3.1
+certifi==2020.11.8
+chardet==3.0.4
+Django==3.1.3
+django-cors-headers==3.5.0
+djangorestframework==3.12.2
+djangorestframework-jwt==1.11.0
+idna==2.10
+mysqlclient @ file:///C:/Users/DJ/Downloads/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+numpy==1.19.3
+pandas==1.1.4
+PyJWT==1.7.1
+PyMySQL==0.10.1
+python-dateutil==2.8.1
+pytz==2020.4
+razorpay==1.2.0
+requests==2.25.0
+six==1.15.0
+SQLAlchemy==1.3.20
+sqlparse==0.4.1
+urllib3==1.26.2
